@@ -1,1 +1,2 @@
 I am from branch2
+I am getting updated from main - remotely
